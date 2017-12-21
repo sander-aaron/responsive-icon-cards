@@ -35,24 +35,27 @@ p {
 
 @media only screen and (min-width: 25em) {
   html {
-    margin: auto;
+    font-size: 100%;
+    line-height: 1.3;
   }
 }
 
 @media only screen and (min-width: 38em) {
   html {
-    margin: auto;
+    font-size: 110%;
+    line-height: 1.4;
   }
 }
 
 @media only screen and (min-width: 60em) {
   html {
-    margin: auto;
+    font-size: 120%;
+    line-height: 1.5;
   }
 }
 
 @media only screen and (min-width: 90em) {
   html {
-    margin: auto;
+    font-size: 130%;
   }
 }
