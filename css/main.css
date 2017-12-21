@@ -55,6 +55,7 @@ p.card-body {
   img.card-img {
     margin: 1em;
     float: left;
+    display: inline-block;
   }
 }
 
