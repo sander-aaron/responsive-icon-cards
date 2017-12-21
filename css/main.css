@@ -25,11 +25,12 @@ html {
   margin: 0;
 }
 .card {
+
   width: 100%;
 }
 
 h2.card-body {
-  margin: 0;
+  margin-bottom: 0;
   font-size: 1.5rem;
 }
 
@@ -39,8 +40,8 @@ img.card-img {
   width: 50px;
 }
 
-p.card-body{
-  margin: 0;
+p.card-body {
+  margin-top: 0;
 }
 
 @media only screen and (min-width: 25em) {
