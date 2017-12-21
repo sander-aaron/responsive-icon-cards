@@ -18,12 +18,21 @@ html {
   box-sizing: inherit;
 }
 
+.cards {
+  display: inline-block;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
 .card-body h2 {
   font-size: 1.5rem;
   margin: 0;
 }
 
-.card-img img {
+img {
   display: block;
   margin: auto;
   width: 50px;
