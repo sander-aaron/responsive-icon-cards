@@ -33,29 +33,25 @@ p {
   margin: 0;
 }
 
-@media only and screen (min-width: 25em) {
-
+@media only screen and (min-width: 25em) {
   html {
     margin: auto;
   }
 }
 
-@media only and screen (min-width: 38em) {
-
+@media only screen and (min-width: 38em) {
   html {
     margin: auto;
   }
 }
 
-@media only and screen (min-width: 60em) {
-
+@media only screen and (min-width: 60em) {
   html {
     margin: auto;
   }
 }
 
-@media only and screen (min-width: 90em) {
-
+@media only screen and (min-width: 90em) {
   html {
     margin: auto;
   }
