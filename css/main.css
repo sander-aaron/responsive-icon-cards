@@ -24,6 +24,7 @@ html {
   list-style-type: none;
   margin: 0;
 }
+
 .card {
 
   width: 100%;
@@ -49,6 +50,11 @@ p.card-body {
   html {
     font-size: 100%;
     line-height: 1.3;
+  }
+
+  img.card-img {
+    margin: 1em;
+    float: left;
   }
 }
 
