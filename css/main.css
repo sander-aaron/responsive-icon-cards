@@ -32,3 +32,19 @@ img {
 p {
   margin: 0;
 }
+
+@media only and screen (min-width: 25em) {
+
+}
+
+@media only and screen (min-width: 38em) {
+
+}
+
+@media only and screen (min-width: 60em) {
+
+}
+
+@media only and screen (min-width: 90em) {
+
+}
