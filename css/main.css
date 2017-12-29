@@ -53,16 +53,19 @@ p.card-body {
   }
 
   img.card-img {
+    position: absolute;
     margin: 1em;
     display: inline-block;
   }
 
   h2.card-body {
     display: inline-block;
+    padding-left: 3.5em;
   }
 
   p.card-body {
     display: inline-block;
+    padding-left: 5.5em;
   }
 }
 
