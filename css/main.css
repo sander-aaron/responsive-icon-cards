@@ -75,6 +75,16 @@ p.card-body {
     font-size: 110%;
     line-height: 1.4;
   }
+
+  .cards {
+    display: inline;
+    width: 33%;
+  }
+
+  .card {
+    display: inline;
+    width: 33%
+  }
 }
 
 @media only screen and (min-width: 60em) {
