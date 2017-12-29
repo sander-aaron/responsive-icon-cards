@@ -30,15 +30,27 @@ html {
   width: 100%;
 }
 
+.card-body h2 {
+  margin-bottom: 0;
+}
+
 h2.card-body {
   margin-bottom: 0;
   font-size: 1.5rem;
+}
+
+.card-img img {
+  display: block
 }
 
 img.card-img {
   display: block;
   margin: auto;
   width: 50px;
+}
+
+.card-body p {
+  margin-top: 0;
 }
 
 p.card-body {
@@ -77,7 +89,7 @@ p.card-body {
   }
 
   .cards {
-    display: inline;
+    display: inline-block;
     width: 33%;
   }
 
